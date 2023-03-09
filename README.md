@@ -1,7 +1,7 @@
 # About me 
 My name is Alina Głuchowska-Fedirko. In my previous education and work, the most important things were patience and precision. I am willing and ready to learn, I want to change my current life. Recently, I have been interested in topics related to quality assurance, which made me apply for the 8th edition of Tech Leaders and follow this career path.
 # LinkedIn profile 
-[Linkedin.pl](https://www.linkedin.com/in/alina-g%C5%82uchowska-fedirko-879a86268/)
+[linkedin.com](https://www.linkedin.com/in/alina-g%C5%82uchowska-fedirko-879a86268/)
 # Courses
 - mentee of 8th edition of Tech Leaders
 # Tech skills
