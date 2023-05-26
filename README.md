@@ -7,12 +7,18 @@ My name is Alina Głuchowska-Fedirko. In my previous education and work, the mos
 - [Technical Support Fundamentals by Google](https://www.coursera.org/account/accomplishments/verify/A8J8S6HH6MW8)
 - [Google Chrome Developer Tools](https://udemy-certificate.s3.amazonaws.com/pdf/UC-64339373-df0d-4cf5-a625-e6ae9839123d.pdf)
 # Tech skills
-- knowledge ISTQB FL
+- ISTQB FL knowledge
+- Agile, Scrum, CI/CD
+- SQL
+- Git
+- REST API
+- automation - basic knowledge
 # Expirience 
 - testing for https://www.utest.com/
 # Technical Books read
 - [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm#format/d)
 - [Zawód tester. Od decyzjo do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html)
+- [Testowanie Oprogramowania](https://pwicherski.gitbook.io/testowanie-oprogramowania/?fbclid=IwAR2YG-vngl6cfdL3qpzoZL87niIVLs73xQOCB3V9u33nN1vAeEfNHlHyJzg)
 # Languages 
 - English - B2
 - Polish - native
