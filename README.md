@@ -4,6 +4,7 @@ My name is Alina Głuchowska-Fedirko. In my previous education and work, the mos
 [linkedin.com](https://www.linkedin.com/in/alina-g%C5%82uchowska-fedirko-879a86268/)
 # Courses
 - mentee of 8th edition of Tech Leaders
+- [Technical Support Fundamentals by Google](https://www.coursera.org/account/accomplishments/verify/A8J8S6HH6MW8)
 - [Google Chrome Developer Tools](https://udemy-certificate.s3.amazonaws.com/pdf/UC-64339373-df0d-4cf5-a625-e6ae9839123d.pdf)
 # Tech skills
 - knowledge ISTQB FL
